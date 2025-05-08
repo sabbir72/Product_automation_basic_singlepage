@@ -168,4 +168,3 @@ By exploring the additional resources, you'll enhance your understanding of **Se
 
 ---
 
-This **README** provides a concise explanation of the project and references for further learning. You can now use this file as the documentation for your project, which will help others understand and run it effectively.
